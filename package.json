@@ -1,0 +1,26 @@
+{
+  "name": "@biomusik3/amunbio",
+  "version": "1.0.0",
+  "description": "helo tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biomusik3/amunbio.git"
+  },
+  "keywords": [
+    "TEA",
+    "Tutorial"
+  ],
+  "author": "biomusik3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biomusik3/amunbio/issues"
+  },
+  "homepage": "https://github.com/biomusik3/amunbio#readme",
+  "dependencies": {
+    "amunbio": "^1.0.0"
+  }
+}
